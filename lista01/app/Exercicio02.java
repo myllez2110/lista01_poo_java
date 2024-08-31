@@ -14,5 +14,7 @@ public class Exercicio02 {
             sobrenome = sc.nextLine();
 
             System.out.printf("Olá, -%s %s-", nome, sobrenome);
+
+            sc.close();
         }
 }
