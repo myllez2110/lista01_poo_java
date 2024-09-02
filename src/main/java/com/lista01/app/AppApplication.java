@@ -16,5 +16,6 @@ public class AppApplication {
 		//Exercicio05.resultado();
 		//Exercicio06.resultado();
 		//Exercicio07.resultado();
+		Exercicio08.resultado();
 	}
 }
