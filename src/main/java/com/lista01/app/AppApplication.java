@@ -14,7 +14,7 @@ public class AppApplication {
 		//Exercicio03.resultado();
 		//Exercicio04.resultado();
 		//Exercicio05.resultado();
-		
+		//Exercicio06.resultado();
 	}
 
 }
