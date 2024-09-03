@@ -1,4 +1,4 @@
-package com.lista01.app;
+package com.lista02.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
