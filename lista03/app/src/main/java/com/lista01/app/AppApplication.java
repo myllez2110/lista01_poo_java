@@ -10,6 +10,7 @@ public class AppApplication {
 		SpringApplication.run(AppApplication.class, args);
 		//Exercicio01.resultado();
 		//Exercicio02.resultado();
+		//Exercicio03.resultado();
 	}
 
 }
