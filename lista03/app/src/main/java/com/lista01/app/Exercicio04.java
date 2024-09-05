@@ -2,7 +2,7 @@ package com.lista01.app;
 import java.util.Scanner;
 
 public class Exercicio04 {
-    public static void resolucao(){
+    public static void resultado(){
 
         @SuppressWarnings("resource")//o leia está fechando "leia.close()" em todas saídas, mas o programa não reconhece automaticamente
         Scanner leia = new Scanner(System.in);

@@ -2,7 +2,7 @@ package com.lista01.app;
 import java.util.Scanner;
 
 public class Exercicio03 {
-    public static void resolucao(){
+    public static void resultado(){
         
         Scanner leia = new Scanner(System.in);
         
